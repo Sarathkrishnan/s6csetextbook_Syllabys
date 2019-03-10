@@ -1,0 +1,119 @@
+Course code		:	CS368
+Course Name 	:	Web Technologies
+Prerequisite	:	Nil
+Credits 		:	3
+
+Course Objectives
+	To impart the design, development and implementation of Dynamic Web Pages.
+	To develop programs for Web using Scripting Languages.
+	To give an introduction to Data Interchange formats in Web.
+
+Syllabus
+	Basics of Internet and World Wide Web, HTML and XHTML, Cascading Style Sheets, Frameworks, Basics of JavaScript, JQuery, Introduction to XML and JSON, Overview of PHP Expected Outcome
+
+The student will be able to
+i.		Understand different components in web technology and to know about CGI and CMS.
+ii.		Develop interactive Web pages using HTML/XHTML.
+iii.	Present a professional document using Cascaded Style Sheets.
+iv.		Construct websites for user interactions using JavaScript and JQuery.
+v.		Know the different information interchange formats like XML and JSON.
+vi.		Develop Web applications using PHP.
+
+Text Books
+1. P. J. Deitel, H.M. Deitel, Internet &World Wide Web How To Program, 4/e, Pearson International Edition 2010.
+2. Robert W Sebesta, Programming the World Wide Web, 7/e, Pearson Education Inc., 2014.
+
+References
+1. Bear Bibeault and Yehuda Katz, jQuery in Action, Second Edition, Manning Publications.[Chapter 1] Black Book, Kogent Learning Solutions Inc. 2009.
+2. Bob Boiko, Content Management Bible, 2 nd Edition, Wiley Publishers. [Chapter 1, 2]
+3. Chris Bates, Web Programming Building Internet Applications, 3/e, Wiley India Edition 2009.
+4. Dream Tech, Web Technologies: HTML, JS, PHP, Java, JSP, ASP.NET, XML, AJAX,
+5. Jeffrey C Jackson, Web Technologies A Computer Science Perspective, Pearson Education Inc. 2009.
+6. Lindsay Bassett, Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON 1st Edition, O’Reilly.[Chapter 1,2,3,4]
+7. Matthew MacDonald, WordPress: The Missing Manual, 2nd Edition, O'Reilly Media.
+
+
+Web Resources
+1. www.w3.org/CGI/
+2. old.tree.ro/en/strategy-white-papers/content-management-systems.pdf
+3. httpd.apache.org/download.cgi
+4. https://alistapart.com/article/frameworks
+5. http://getbootstrap.com/css/
+6. https://www.w3.org/TR/WD-DOM/introduction.html
+
+[Chapter 1]
+Introduction to the Internet: The World Wide Web, Web Browsers, Web Servers, Uniform Resource Locators, Multipurpose Internet Mail Extensions, The Hypertext Transfer Protocol. Common Gateway Interface(CGI), Content Management System – Basics
+Case Study	:	Apache Server, WordPress.
+
+[Chapter 2]
+Introduction to HTML/XHTML : Origins and Evolution of HTML and XHTML, Basic Syntax of HTML, Standard HTML Document Structure, Basic Text Markup,
+Images, Hypertext Links, Lists, Tables, Forms, HTML5, Syntactic Differences between HTML and XHTML.
+
+FIRST INTERNAL EXAM
+
+[Chapter 3]
+Introduction to Styles sheets and Frameworks Cascading Style Sheets: Levels of Style Sheets -Style Specification Formats, Selector Forms, Property-Value Forms, Font Properties, List Properties, Alignment of Text, Color, The Box Model, Background Images, The span and div Tags. Frameworks: Overview and Basics of Responsive CSS Frameworks- Bootstrap.
+
+[Chapter 4]
+Introduction to JavaScript and jQuery The Basics of JavaScript: Overview of JavaScript, Object Orientation and JavaScript, General Syntactic Characteristics-
+Primitives, Operations, and Expressions, Screen Output and
+Keyboard Input, Control Statements, Object Creation and
+Modification,Arrays,
+Functions. Callback Functions, Java
+Script HTML DOM.
+Introduction to jQuery: Overview and Basics.
+SECOND INTERNAL EXAMINATION
+Introduction to Data Interchange Formats
+XML: The Syntax of XML, XML Document Structure, Namespaces,
+XML Schemas, Displaying Raw XML Documents, Displaying XML
+Documents with CSS, XSLT Style Sheets, XML Applications.
+JSON(Basics Only): Overview, Syntax, Datatypes, Objects, Schema,
+Comparison with XML.
+Introduction to PHP: Origins and Uses of PHP, Overview of PHP -
+General Syntactic Characteristics - Primitives, Operations, and
+Expressions - Control Statements, Arrays, Functions, Pattern
+Matching, Form Handling, Cookies, Session Tracking.
+END SEMESTER EXAM
+06 15%
+07 15%
+06 15%
+07 15%
+08 20%
+08 20%
+Assignment:
+It is highly recommended to give assignment based on:
+1. JavaScript Frameworks (like AngularJS or/and NodeJS)
+2. Any PHP web app based on frameworks(like Laravel, CodeIgniter, CakePHP, Zend
+etc.)
+For more study materials>www.ktustudents.in1.
+2.
+3.
+4.
+5.
+6.
+Question Paper Pattern
+There will be five parts in the question paper – A, B, C, D, E
+Part A
+a. Total marks : 12
+b. Four questions each having 3 marks, uniformly covering modules I and II; All
+four questions have to be answered.
+Part B
+a. Total marks : 18
+b. Three questions each having 9 marks, uniformly covering modules I and II; Two
+questions have to be answered. Each question can have a maximum of three
+subparts.
+Part C
+a. Total marks : 12
+b. Four questions each having 3 marks, uniformly covering modules III and IV; All
+four questions have to be answered.
+Part D
+a. Total marks : 18
+b. Three questions each having 9 marks, uniformly covering modules III and IV;
+Two questions have to be answered. Each question can have a maximum of three
+subparts
+Part E
+a. Total Marks: 40
+b. Six questions each carrying 10 marks, uniformly covering modules V and VI; four
+questions have to be answered.
+c. A question can have a maximum of three sub-parts.
+For more study materials>www.ktustudents.in
